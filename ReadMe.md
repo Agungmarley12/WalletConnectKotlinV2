@@ -81,4 +81,4 @@ dependencies {
 ## License
 WalletConnect v2 is released under the Apache 2.0 license. [See LICENSE](/LICENSE) for details.
 ### Community Contribution
-This small edit was made by [@Agungmarley12](https://github.com/Agungmarley12) as part of the WalletConnect Builder Program.
+This small edit was made by [@Agungmarley12](https://github.com/Agungmarley12) as part of the WalletConnect Builder Program
